@@ -2,14 +2,16 @@
 title: ""
 ---
 
-<h1 class="text-center font-title">About Me</h1>
+<h1 class="text-center font-title">About ng-star</h1>
 
-<img src="/img/rayban_hax_boi.gif" alt="Rayban Hax Boi" class="img-circle center-block" />
+<img src="/img/ng-star-logo.png" alt="ng-star logo" class="center-block" />
 
 <div class="text-center" markdown=1>
 
-Notice the responsive layout that bootstrap provides.  
-
-Play around with different window sizes: phone, tablet, desktop.
+Roanoke's AngularJS and Javascript Meetup. We're focused on covering the latest frontend frameworks and 
+web development practices. This group is for novices and ninjas. Our group is for the beginner playing around with 
+javascript in their browser console and taking CodeSchool/Codecademy classes. Our group is the place to learn from 
+the Designer and Javascript ninjas amazing users with a stellar UI, tweaking every pixel, and optimizing the 
+pageload time.  We are focused on AngularJS for now, but we'd welcome presentations on other frameworks as well.
 
 </div>
