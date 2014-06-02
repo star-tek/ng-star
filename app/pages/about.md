@@ -4,7 +4,7 @@ title: ""
 
 <h1 class="text-center font-title">About ng-star</h1>
 
-<img src="/img/ng-star-logo.png" alt="ng-star logo" class="center-block" />
+<img src="/img/ng-star-logo.png" alt="ng-star logo" class="img-responsive center-block" />
 
 <div class="text-center" markdown=1>
 
