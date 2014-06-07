@@ -12,6 +12,7 @@ module.exports = (lineman) ->
         description: "where I post all my brilliant ideas"
         url: "https://ng-star.xel.io"
         rssCount: 10 #<-- remove, comment, or set to zero to disable RSS generation
+        meetupLink: "http://www.meetup.com/ng-star-Roanokes-AngularJS-and-Javascript-Meetup/"
         disqus: "ng-star"
         googleAnalytics:
           trackingID: "UA-51551462-2"
