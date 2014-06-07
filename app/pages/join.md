@@ -18,7 +18,7 @@ title: ""
     <p><a class="btn btn-danger btn-lg" role="button" href="http://www.meetup.com/ng-star-Roanokes-AngularJS-and-Javascript-Meetup/">Join Now on Meetup.com »</a></p>
 </div>
 
-<img src="/img/ng-star-logo.png" alt="Star.rb Logo" class="img-responsive center-block"/>
+<img src="/img/ng-star-logo.png" alt="gn-star Logo" class="img-responsive center-block"/>
 
 <!-- Facebook Conversion Code for Join ng-star Pixel -->
 <script>(function() {
