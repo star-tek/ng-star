@@ -2,7 +2,7 @@
 title: "Our first meetup was a success!"
 author:
   name: "David Conner"
-  pic: "img/dc.jpeg"
+  pic: "/img/dc.jpeg"
 ---
 
 Well it looks like our [first meetup](http://www.meetup.com/ng-star-Roanokes-AngularJS-and-Javascript-Meetup/events/184728272/) 
